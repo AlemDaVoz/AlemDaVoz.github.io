@@ -1,4 +1,4 @@
-## Welcome to Para Alem da Voz
+## Welcome to Além da Voz
 
 Creating voice assistants that save time, money and empower people.
 
